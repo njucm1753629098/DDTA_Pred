@@ -1,0 +1,11 @@
+{
+  "mean_auroc": 0.9636024299651496,
+  "target_mean_auroc": 0.96,
+  "passed_target": true,
+  "device": "cuda",
+  "folds": 10,
+  "completed_folds": 10,
+  "cv_mode": "disease",
+  "samples_path": "outputs/training_data/herb_disease_samples.csv",
+  "word2vec_path": "outputs/word2vec/tcm_disease_herb_word2vec.model"
+}

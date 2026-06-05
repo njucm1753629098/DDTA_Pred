@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+Figure.pptx
+*.docx
+predictions/
+outputs/predictions/
+
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+outputs/training_data/word2vec_sentences*.txt
