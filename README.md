@@ -10,7 +10,7 @@ data/           Input biomedical association data
 outputs/        Provided model files, training data, cross-validation outputs, and figures
 ```
 
-The pretrained Word2Vec model is expected at:
+The pretrained Word2Vec model is at:
 
 ```text
 outputs/word2vec/tcm_disease_herb_word2vec.model
